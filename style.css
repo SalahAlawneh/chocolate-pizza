@@ -1,0 +1,155 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-hr {
+    display:block;
+    border:0px;
+    height:10px;
+    background-image: url('img/hr-img.png');
+    margin: auto 100px;
+}
+
+div {
+    display: inline-block;
+}
+
+.header-right-side {
+    float: right;
+}
+
+.logo-img {
+    float: left;
+}
+
+header {
+    margin: 20px 100px;
+}
+
+footer {
+    margin: 20px 100px;
+    position: relative;
+}
+
+.six-icons {
+    margin-right: 8px;
+}
+
+main {
+    margin: 20px 100px;
+}
+
+.main-img-container {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.main-img {
+    width: 100%;
+}
+
+.print-img {
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 35px;
+}
+
+.main-p1 {
+    margin-top: 10px;
+ }
+
+.main-p2 {
+    margin-top: 20px;
+ }
+
+.main-p3 {
+    margin-top: 20px;
+ }
+
+
+.list-img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.list-container {
+    position: relative;
+}
+
+ul {
+    position: absolute;
+}
+
+.left-list {
+    top: 89px;
+    left: 64px;
+}
+
+.right-list {
+    top: 89px;
+    right: 64px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+button {
+    position: absolute;
+    right: 1px;
+    top: 8px;
+    color: #fff;
+    background-color: red;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+}
+
+.vanessa-img {
+    float: left;
+}
+
+.main-p-and-printIcon {
+    position: relative;
+}
+
+.print-word {
+    position: absolute;
+    right: 0px;
+    top: 12px;
+}
+
+hr {
+    display: block;
+    margin-top: 2.5em;
+    margin-bottom: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.left-footer-p {
+    width: 65%;
+    margin-left: 88px;
+    margin-top: 20px;
+}
+
+.left-footer-h1 {
+    position: relative;
+    left: 16px;
+    top: 7px;
+}
+
+.small-logo {
+    position: absolute;
+    left: 515px;
+    top: 92px;
+}
+
+.last-p {
+text-align: center;
+}
