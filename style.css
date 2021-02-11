@@ -30,6 +30,7 @@ header {
 
 footer {
     margin: 20px 100px;
+    position: relative;
 }
 
 .six-icons {
@@ -52,6 +53,7 @@ main {
 .print-img {
     float: right;
     margin-bottom: 20px;
+    margin-right: 35px;
 }
 
 .main-p1 {
@@ -95,14 +97,59 @@ li {
 }
 
 button {
-    float: right;
+    position: absolute;
+    right: 1px;
+    top: 8px;
+    color: #fff;
+    background-color: red;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
 }
 
 .vanessa-img {
     float: left;
 }
 
+.main-p-and-printIcon {
+    position: relative;
+}
 
-.footer-buttom {
-    margin: 20px 500px;
+.print-word {
+    position: absolute;
+    right: 0px;
+    top: 12px;
+}
+
+hr {
+    display: block;
+    margin-top: 2.5em;
+    margin-bottom: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.left-footer-p {
+    width: 65%;
+    margin-left: 88px;
+    margin-top: 20px;
+}
+
+.left-footer-h1 {
+    position: relative;
+    left: 16px;
+    top: 7px;
+}
+
+.small-logo {
+    position: absolute;
+    left: 515px;
+    top: 92px;
+}
+
+.last-p {
+text-align: center;
 }
