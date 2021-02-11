@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-hr {
+    display:block;
+    border:0px;
+    height:10px;
+    background-image: url('img/hr-img.png');
+    margin: auto 100px;
+}
+
+div {
+    display: inline-block;
+}
+
+.header-right-side {
+    float: right;
+}
+
+.logo-img {
+    float: left;
+}
+
+header {
+    margin: 20px 100px;
+}
+
+footer {
+    margin: 20px 100px;
+}
+
+.six-icons {
+    margin-right: 8px;
+}
+
+main {
+    margin: 20px 100px;
+}
+
+.main-img-container {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.main-img {
+    width: 100%;
+}
+
+.print-img {
+    float: right;
+    margin-bottom: 20px;
+}
+
+.main-p1 {
+    margin-top: 10px;
+ }
+
+.main-p2 {
+    margin-top: 20px;
+ }
+
+.main-p3 {
+    margin-top: 20px;
+ }
+
+
+.list-img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.list-container {
+    position: relative;
+}
+
+ul {
+    position: absolute;
+}
+
+.left-list {
+    top: 89px;
+    left: 64px;
+}
+
+.right-list {
+    top: 89px;
+    right: 64px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+button {
+    float: right;
+}
+
+.vanessa-img {
+    float: left;
+}
+
+
+.footer-buttom {
+    margin: 20px 500px;
+}
